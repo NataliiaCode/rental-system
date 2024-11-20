@@ -1,0 +1,2 @@
+(self.webpackChunk=self.webpackChunk||[]).push([[130],{130:()=>{var o=document.getElementById("scrollToTopButton");window.addEventListener("scroll",(function(){window.scrollY>800?o.style.display="block":o.style.display="none"})),o.addEventListener("click",(function(){window.scrollTo({top:0,behavior:"smooth"})}))}}]);
+//# sourceMappingURL=130.js.map
